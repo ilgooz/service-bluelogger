@@ -1,2 +1,2 @@
-# service-log
-service-log is a log service for [MESG](https://mesg.tech).
+# service-logger
+service-logger is a logger service for [MESG](https://mesg.tech).
