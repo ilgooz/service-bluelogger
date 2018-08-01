@@ -7,21 +7,18 @@ BlueLogger is a logger service for [MESG](https://mesg.tech).
 ## Installation
 `$ mesg-core service deploy https://github.com/ilgooz/service-bluelogger`
 
+## Tasks
+Tasks of the logger service
 
-## API
-API of the logger service
-
-### Tasks
-
-#### log
+### log
 Logs input data to standard output.
-##### Input Data
+#### Input Data
 * ServiceID `(string)`
 ID of the service that `Data` received from.
 * Data `(object)`
 Actual log message
 
-##### Output Data
+#### Output Data
 * Success: OK `(bool)`
 * Error: Message `(string)`
 
