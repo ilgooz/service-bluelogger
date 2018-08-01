@@ -1,4 +1,4 @@
-name: Logger
+name: BlueLogger
 description: 'Log your data to std output'
 tasks:
   log:

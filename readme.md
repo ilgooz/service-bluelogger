@@ -1,11 +1,11 @@
 
-# service-logger
+# BlueLogger
 
-service-logger is a logger service for [MESG](https://mesg.tech).
+BlueLogger is a logger service for [MESG](https://mesg.tech).
 
   
 ## Installation
-`$ mesg-core service deploy https://github.com/ilgooz/service-logger`
+`$ mesg-core service deploy https://github.com/ilgooz/service-bluelogger`
 
 
 ## API
